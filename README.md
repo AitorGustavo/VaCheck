@@ -4,7 +4,10 @@ Repositorio orientado al desarrollo de una aplicación de gestión para la vacun
 Miembros:
 
 Aitor Gustavo
+
 Fernando Fuentes
 
 Javier Morales
+
+Alejandro Maldonado
 
