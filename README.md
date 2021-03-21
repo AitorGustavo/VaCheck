@@ -1,5 +1,5 @@
-ï»¿# VaCheck
-Repositorio orientado al desarrollo de una aplicaciÃ³n de gestiÃ³n para la vacunaciÃ³n contra el COVID19 en la provincia de MÃ¡laga
+# VaCheck
+Repositorio orientado al desarrollo de una aplicación de gestión para la vacunación contra el COVID19 en la provincia de Málaga
 
 Miembros:
 
@@ -11,3 +11,4 @@ Javier Morales
 
 Alejandro Maldonado
 
+Antonio Ortega.
